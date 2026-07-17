@@ -43,9 +43,9 @@ The [ULB Credit Card Fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/cred
  
 ## Repository Structure
 credit-card-fraud-detection/
-├── fraud_detection.ipynb   # main notebook (EDA → modeling → SHAP)
-├── requirements.txt
-├── README.md
+├── fraud_detection.ipynb   # main notebook (EDA → modeling → SHAP)/
+├── requirements.txt/
+├── README.md/
 └── .gitignore
 
 ## How to Run
